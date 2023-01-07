@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JAPANESE&amp;KOREAN RESTO HALAL</string>
+    <string name="restoj_name" />
+    <string name="restoj_description" />
+    <string name="restok_name" />
+    <string name="restok_description" />
+    <string name="restoj_jadwal" />
+    <string name="restok_namea" />
+    <string name="restok_descriptionaa" />
+</resources>
